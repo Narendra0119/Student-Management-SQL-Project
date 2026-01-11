@@ -4,7 +4,7 @@ Includes:
 
 Project description
 
-Tools used (MySQL)
+Tools used (SQL)
 
 Key SQL skills
 
